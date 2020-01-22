@@ -1,0 +1,14 @@
+A* search
+Path Obtained: 
+Arad -> Sibiu -> Rimnicu Vikea -> Pitesti -> Bucharest 
+Path Cost: 418
+
+Breadth first search
+Path Obtained: 
+Arad -> Sibiu -> Fagaras -> Bucharest
+Path Cost: 450
+
+Depth first search
+Path Obtained: 
+Arad -> Zerind -> Oradea -> Sibiu -> Fagaras -> Bucharest 
+Path Cost: 607
